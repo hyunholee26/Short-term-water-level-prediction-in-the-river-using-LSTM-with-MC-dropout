@@ -1,14 +1,17 @@
 # short-term-river-level-prediction-using-LSTM-with-MC-dropout
+
 ## Index
   - [Overview](#overview) 
   - [Getting Started](#getting-started)
   - [Contributing](#contributing)
   - [Authors](#authors)
 
+
 ## Overview
 This project was carried out for the 5th K-water Big Data Competetion to respond to rapid flood near urban areas because of climate change. Input data is used water level and rainfall data for upstream and target areas during 24 hours, which were observed per 1 hour in order to predict after 1 hour water level of target area.
 
 ![](./header.png)
+
 
 ## Getting Started
 
@@ -19,13 +22,15 @@ This project assumes you have the following:
 
 ### Data Collection
 
-You can find related notebooks in (`/notebooks/collecting_data`) or you can also use csv files in (`/data`) as input data.
-If you use csv files in (`/data`), you have to copy these files to your storage first. Google driver could be one of your storage.
+You can find related notebooks in `/notebooks/collect_data` folder or you can also use csv files in `/data` folder as input data.
+If you use csv files in `/data`, you have to copy all files in `/data` folder to your storage first. Google driver could be one of your storage.
+Or if you collect data by yourself through OpenAPI, you have to get OpenAPI access key in [this site](http://www.wamis.go.kr:8080/wamisweb/main/mainPage.do). 
 
 ### Training & Test
 
-You can find related notebooks in (`/notebooks/deeplenaring_with_MCDropout`).
-There are 3 type of deep learning model, LSTM, 1D CNN, and DNN with Monte Carlo Dropout.
+You can find related notebooks in `/notebooks/deeplearning_with_MC_Dropout` folder.
+In the notebooks, there are 3 type of deep learning models which are LSTM, 1D CNN, and DNN with Monte Carlo Dropout for two target areas where is Jingwan and Samrangjin.
+
 
 <!-- CONTRIBUTING -->
 ## Contributing

@@ -11,31 +11,21 @@ This project was carried out for the 5th K-water Big Data Competetion to respond
 ![](./header.png)
 
 ## Getting Started
-**click `Use this template` and use this template!**
-<!--
-### Depencies
- Write about need to install the software and how to install them 
--->
-### Installing
-<!-- A step by step series of examples that tell you how to get a development 
-env running
 
-Say what the step will be
+This project assumes you have the following:
 
-    Give the example
+ - Google colab
+ - Google drive (Mounting google drive on google Colab)
 
-And repeat
+### Data Collection
 
-    until finished
--->
-1. Click `Use this template` button 
-2. Create New Repository
-3. Update Readme and Others(Other features are noted in comments.)
-<!--
-## Deployment
- Add additional notes about how to deploy this on a live system
- -->
+You can find related notebooks in (`/notebooks/collecting_data`) or you can also use csv files in (`/data`) as input data.
+If you use csv files in (`/data`), you have to copy these files to your storage first. Google driver could be one of your storage.
 
+### Training & Test
+
+You can find related notebooks in (`/notebooks/deeplenaring_with_MCDropout`).
+There are 3 type of deep learning model, LSTM, 1D CNN, and DNN with Monte Carlo Dropout.
 
 <!-- CONTRIBUTING -->
 ## Contributing

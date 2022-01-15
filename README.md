@@ -37,9 +37,9 @@ In the notebooks, there are 3 type of deep learning models which are LSTM, 1D CN
 
 ### Future works
 
- - Incorporating hydrology and physics knowledge into deep learning models that predict natural phenomena such as water level
+ - Incorporating hydrology and physics knowledge into deep learning models that predict natural phenomena such as rapid flood
  - Graph neural network considering spatial autocorrelation and (river) networks for water level prediction
- - Uncertainty Estimation for Spatiotemporal prediction specialized in natural phenomena
+ - Uncertainty Estimation for spatiotemporal prediction specialized in natural phenomena such as water level prediction
 
 <!-- CONTRIBUTING -->
 ## Contributing

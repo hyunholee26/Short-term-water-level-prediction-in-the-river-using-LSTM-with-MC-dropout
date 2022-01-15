@@ -8,7 +8,7 @@
 
 
 ## Overview
-This project was carried out for the 5th K-water Big Data Competetion to respond to rapid flood near urban areas because of climate change. Input data is used water level and rainfall data for upstream and target areas during 24 hours, which were observed per 1 hour in order to predict after 1 hour water level of target area. Also Monte Carlo Dropout was used in this project to support more information such as confidence interval and probability of alert.
+This project was carried out for the 5th K-water Big Data Competetion to respond to rapid flood near urban areas because of climate change. Input data is used water level and rainfall data for upstream and target area during 24 hours, which were observed per 1 hour in order to predict after 1 hour water level of target area. Also Monte Carlo Dropout was used in this project to support more information such as confidence interval and probability of alert.
 
 ![](./header.png)
 

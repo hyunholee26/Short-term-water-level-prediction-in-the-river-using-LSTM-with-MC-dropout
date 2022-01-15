@@ -56,4 +56,8 @@ Don't forget to give the project a star! Thanks again!
 
 <!-- Authors -->
 ## Authors
-  - **Hyunho Lee** - [https://github.com/hyunholee26](https://github.com/hyunholee26) - <hyunho.lee26@gmail.com>, <hyunho@kwater.or.kr>
+  - **Hyunho Lee** 
+    - email : <hyunho.lee26@gmail.com>, <hyunho@kwater.or.kr>
+    - [Github](https://github.com/hyunholee26)
+    - [Linkedin](https://www.linkedin.com/in/hyunho-lee-91a473226/)
+    - [Google Scholar](https://scholar.google.com/citations?user=_BauogcAAAAJ&hl=ko)

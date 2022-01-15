@@ -1,4 +1,4 @@
-# short term water level prediction in the river using LSTM with Monte Carlo Dropout
+# Short term Water Level Prediction in the river using LSTM with Monte Carlo Dropout
 
 ## Index
   - [Overview](#overview) 

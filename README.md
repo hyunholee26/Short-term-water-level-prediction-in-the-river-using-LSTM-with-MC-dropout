@@ -56,11 +56,4 @@ Don't forget to give the project a star! Thanks again!
 
 <!-- Authors -->
 ## Authors
-  - [Always0ne](https://github.com/Always0ne) - **SangIl Hwang** - <si8363@soongsil.ac.kr>
-
-See also the list of [contributors](https://github.com/always0ne/readmeTemplate/contributors)
-who participated in this project.
-<!--
-## Used or Referenced Projects
- - [referenced Project](project link) - **LICENSE** - little-bit introduce
--->
+  - [Hyunho Lee](https://github.com/hyunholee26) - **Hyunho Lee** - <hyunho.lee26@gmail.com>, <hyunho@kwater.or.kr>

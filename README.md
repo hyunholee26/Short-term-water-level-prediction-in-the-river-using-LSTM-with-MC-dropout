@@ -35,6 +35,11 @@ Target areas and observation points are follwing :
 You can find related notebooks in `/notebooks/deeplearning_with_MC_Dropout` folder.
 In the notebooks, there are 3 type of deep learning models which are LSTM, 1D CNN, and DNN with Monte Carlo Dropout for two target areas where is Jingwan and Samrangjin.
 
+### Future works
+
+ - Incorporating hydrology and physics knowledge into deep learning models that predict natural phenomena such as water level
+ - Graph neural network considering spatial autocorrelation and (river) networks for water level prediction
+ - Uncertainty Estimation for Spatiotemporal prediction specialized in natural phenomena
 
 <!-- CONTRIBUTING -->
 ## Contributing

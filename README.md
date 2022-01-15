@@ -26,6 +26,12 @@ You can find related notebooks in `/notebooks/collect_data` folder or you can al
 If you use csv files in `/data`, you have to copy all files in `/data` folder to your storage first. Google driver could be one of your storage.
 Or if you collect data by yourself through OpenAPI, you have to get OpenAPI access key in [this site](http://www.wamis.go.kr:8080/wamisweb/main/mainPage.do). 
 
+#### Target areas and observation points
+
+Target areas and observation points in this project are follwing :
+
+![](./targetarea.png)
+
 ### Training & Test
 
 You can find related notebooks in `/notebooks/deeplearning_with_MC_Dropout` folder.

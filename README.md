@@ -1,14 +1,5 @@
 # short-term-river-level-prediction-using-LSTM-with-MC-dropout
-short term river level prediction using LSTM with MC dropout
-
-# 프로젝트명
-> 간략한 프로젝트 소개 문구를 작성합니다.
-
-[![NPM Version][npm-image]][npm-url]
-[![Build Status][travis-image]][travis-url]
-[![Downloads Stats][npm-downloads]][npm-url]
-
-한 두 문단으로 프로젝트 소개 글을 작성합니다.
+This project is to respond to rapid flood near urban areas because of climate change for 5th K-water Bigdata Contest  
 
 ![](../header.png)
 

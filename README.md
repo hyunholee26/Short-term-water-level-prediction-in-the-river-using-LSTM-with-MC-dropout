@@ -8,7 +8,7 @@
 
 
 ## Overview
-This project was carried out for the 5th K-water Big Data Competetion to respond to rapid flood near urban areas because of climate change. Input data is used water level and rainfall data for upstream and target area during 24 hours, which were observed per 1 hour in order to predict after 1 hour water level of target area. Also Monte Carlo Dropout was used in this project to support more information such as confidence interval and probability of alert.
+The purpose of this project was water level prediction of target area after 1 hours to respond to rapid flood near urban areas because of climate change. Input data is used water level and rainfall data for upstream and target area during 24 hours, which were observed per 1 hour in order to predict after 1 hour water level of target area. Also Monte Carlo Dropout was used in this project to estimate uncertainty of predicted values. Beside, through applying Monte Carlo Dropout, it could help to support additional information for decision making such as confidence interval and probability of alert. This project won 1st place in the 5th K-water Big Data Competetion.
 
 ![](./header.png)
 
@@ -17,7 +17,7 @@ This project was carried out for the 5th K-water Big Data Competetion to respond
 
 This project assumes you have the following:
 
- - Google colab
+ - Google colab (Acutally, I used Google colab Pro, it is the fastest way to build the analysis environment I know, not intended to advertise products)
  - Google drive (Mounting google drive on google Colab)
 
 ### Data Collection
@@ -58,7 +58,7 @@ Don't forget to give the project a star! Thanks again!
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- Authors -->
-## Authors
+## Author
   - **Hyunho Lee** 
     - email : <hyunho.lee26@gmail.com>, <hyunho@kwater.or.kr>
     - [Github](https://github.com/hyunholee26)

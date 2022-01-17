@@ -8,7 +8,7 @@
 
 
 ## Overview
-The purpose of this project was water level prediction of target area after 1 hours to respond to rapid flood near urban areas because of climate change. Input data is used water level and rainfall data for upstream and target area during 24 hours, which were observed per 1 hour in order to predict after 1 hour water level of target area. Also Monte Carlo Dropout was used in this project to estimate uncertainty of predicted values. Beside, through applying Monte Carlo Dropout, it could help to support additional information for decision making such as confidence interval and probability of alert. This project won 1st place in the 5th K-water Big Data Competetion.
+The purpose of this project was **water level prediction of target area after 1 hours to respond to rapid flood** near urban areas because of climate change. Input data is used water level and rainfall data for upstream and target area during 24 hours, which were observed per 1 hour in order to predict after 1 hour water level of target area. Also Monte Carlo Dropout was used in this project to estimate uncertainty of predicted values. Beside, through applying Monte Carlo Dropout, it could help to support additional information for decision making such as confidence interval and probability of alert. This project won 1st place in the 5th K-water Big Data Competetion.
 
 ![](./header.png)
 
@@ -32,8 +32,8 @@ Target areas and observation points are follwing :
 
 ### Training & Test
 
-You can find related notebooks in `/notebooks/deeplearning_with_MC_Dropout` folder.
-In the notebooks, there are 3 type of deep learning models which are LSTM, 1D CNN, and DNN with Monte Carlo Dropout for two target areas where is Jingwan and Samrangjin.
+You can find relevant notebooks in `/notebooks/deeplearning_with_MC_Dropout` folder.
+In the notebooks, there are 3 type of deep learning models which are LSTM, 1D CNN, and DNN with Monte Carlo Dropout for two target areas where are Jingwan and Samrangjin.
 
 ### Future works
 
@@ -55,7 +55,6 @@ Don't forget to give the project a star! Thanks again!
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-<p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- Authors -->
 ## Author
@@ -64,3 +63,6 @@ Don't forget to give the project a star! Thanks again!
     - [Github](https://github.com/hyunholee26)
     - [Linkedin](https://www.linkedin.com/in/hyunho-lee-91a473226/)
     - [Google Scholar](https://scholar.google.com/citations?user=_BauogcAAAAJ&hl=ko)
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
